@@ -47,6 +47,9 @@
                 "name": "model.layers.${layer_index}.self_attn.k_proj.weight"
             },
             {
+                "name": "model.layers.${layer_index}.self_attn.o_proj.weight"
+            },
+            {
                 "name": "model.layers.${layer_index}.self_attn.q_norm.weight"
             },
             {
